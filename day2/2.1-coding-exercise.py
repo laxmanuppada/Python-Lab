@@ -8,5 +8,6 @@ print (second_digit)
 results = first_digit + second_digit
 print (results)
 
+# below is the actual code for calculating to digits.
 results = int(first_digit) + int(second_digit)
 print (results)
